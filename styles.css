@@ -203,6 +203,8 @@ ul {
   color: white;
   justify-content: space-between;
   border-radius: 5px;
+  min-width: max-content;
+  gap: 50px;
 }
   
 #action h3 {
